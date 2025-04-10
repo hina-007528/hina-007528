@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hina</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://images.search.yahoo.com/images/view;_ylt=AwrOqR0E3vdnwH0BLmuJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2YxOTdhZTUzYzE1OWM5NGM4MThlYTdjMzQ3NzFjYWQ5BGdwb3MDNTIEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Damnimation%2Bcoding%2Bgif%26type%3DE210US91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D52&w=1600&h=900&imgurl=cdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F028%2F102%2F058%2Foriginal%2Fpixel-jeff-matrix-s.gif%3F1593487263&rurl=https%3A%2F%2Fpixeljeff1995.artstation.com%2Fprojects%2F8eelbG&size=480KB&p=amnimation+coding+gif&oid=f197ae53c159c94c818ea7c34771cad9&fr2=piv-web&fr=mcafee&tt=Pixel+Jeff+-+Mastermind&b=0&ni=21&no=52&ts=&tab=organic&sigr=9wEWQCO3fELl&sigb=DmUorJjIdxDj&sigi=.LuGB8pO0PUL&sigt=xeA4I76nGMZX&.crumb=kiJfsylWzSu&fr=mcafee&fr2=piv-web&type=E210US91215G0">
+<img align="right" alt="coding" width="400" src=" https://user-images.githubusercontent...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hina-007528&label=Profile%20views&color=0e75b6&style=flat" alt="hina-007528" /> </p>
 
 - 🌱 I’m currently learning **Web development stacks**
