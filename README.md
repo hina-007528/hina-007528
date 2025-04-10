@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hina</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src=" https://user-images.githubusercontent">
+<img align="right" alt="coding" width="400" src=" ![image](https://github.com/user-attachments/assets/3d4c9f86-deba-4791-baac-3352d1dd966a)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hina-007528&label=Profile%20views&color=0e75b6&style=flat" alt="hina-007528" /> </p>
 
 - 🌱 I’m currently learning **Web development stacks**
